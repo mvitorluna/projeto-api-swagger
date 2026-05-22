@@ -122,3 +122,12 @@ C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\obj\Debug\net10.0\refint\LojaA
 C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\obj\Debug\net10.0\LojaApi.pdb
 C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\obj\Debug\net10.0\LojaApi.genruntimeconfig.cache
 C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\obj\Debug\net10.0\ref\LojaApi.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\obj\Debug\net10.0\LojaApi.sourcelink.json
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\OneDrive\Documentos\Projeto\LojaApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.EntityFrameworkCore;
 using LojaApi.Data;
 using LojaApi.Models;
@@ -7,6 +8,7 @@ namespace LojaApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
     public class FornecedorController : ControllerBase
     {
         private readonly AppDbContext _context;
